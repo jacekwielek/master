@@ -12,6 +12,7 @@ namespace TestConsole
         {
             Console.WriteLine("Hello world!!!");
             // Master!!!
+            // Master 2
         }
     }
 }
